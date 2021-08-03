@@ -1,1 +1,1 @@
-# SGD_non-monotone
+# SGD_monotone
